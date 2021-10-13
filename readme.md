@@ -1,4 +1,4 @@
-# Assignments for *Programming Language Concepts*
+# *Programming Language Concepts* Basics
 
 > I am not responsible for plagiarism and other issues that arise from current students accessing my code.
 
